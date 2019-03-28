@@ -1,0 +1,7 @@
+Mirror in progress since Tue, 26 Mar 2019 01:31:24 .. please wait!
+httrack -@i4 -O /storage/emulated/0/HTTracks/Websites/মক -A25000k%Px%q0u1s2%s%u%fDaK0p3H0N0 bteb.portal.gov.bd/site/page/e92398ac-76ee-427c-85d4-a3c6d500d725 +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2017], %s -->" -%l LANGUAGE_ISO,* 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=15965
+UID=10251
+GID=10251
+START=1553542284
